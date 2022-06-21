@@ -93,7 +93,7 @@ if __name__ == "__main__":
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 
     project_name = p.data_name + '-' + 'main'
-    experiment = Experiment(api_key='8VXZFCmgpRu8EyvczH3qA5gUs', project_name=project_name)
+    experiment = Experiment(api_key='', project_name=project_name)
     experiment.log_parameters(conf)
 
     # training
