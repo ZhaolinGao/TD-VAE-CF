@@ -6,7 +6,7 @@ Zhaolin Gao, Tianshu Shen, Zheda Mai, Mohamed Reda Bouadjenek, Isaac Waller, Ash
 
 ## Instructions
 
-1. Download dataset from `https://drive.google.com/drive/folders/1S5QMSkweJmAbqZLom3V0gI_OvvsgS0hB?usp=sharing`.
+1. Download dataset from `https://drive.google.com/drive/folders/1o1izS1Mjptmq8SG5lodc2F6guiifxna7?usp=sharing`.
 
 2. Modify the `api_key` in line 96 of `main.py` to your api key on comet_ml.
 
